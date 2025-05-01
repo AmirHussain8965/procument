@@ -35,8 +35,20 @@ body {
     font-size: 21px;
     top: 115px;
   }
+  .balance_text2_inner img {
+    position: absolute;
+    top: -40px;
+    left: -15px;
+    height: 80px;
+  }
 }
 @media(max-width:992px){
+  .balance_text2_inner img {
+    position: absolute;
+    top: -40px;
+    left: -15px;
+    height: 80px;
+  }
   .header_section .navbar-nav{
     padding-top: 30px;
   }
